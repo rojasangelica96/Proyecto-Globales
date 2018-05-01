@@ -12,6 +12,10 @@ body{
 	/*background: linear-gradient(#ff6d70 ,#ff3d41);*/
 	color: white;
 }
+#header-container button{
+	color: white;
+}
+
 #header-container h1{
 	margin-top: 8%;
 
